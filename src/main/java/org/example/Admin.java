@@ -7,6 +7,7 @@ package org.example;
  Объявите две переменные типа String: admin и name.
  Запишите строку "John" в переменную name.
  Скопируйте значение из переменной name в admin.
+
 */
 public class Admin {
     public static void userName() {

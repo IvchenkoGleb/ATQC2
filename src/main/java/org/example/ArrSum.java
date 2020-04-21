@@ -22,7 +22,7 @@ public class ArrSum {
 */
 public class ArrSum {
     public static void main (String [] args) {
-      int[] array = {1, 2, 3, 1111, 333, 333, 11212, 347878742, 1211121};
+      int[] array = {1, 2, 3, 1111, 333, 333, 11212, 347878742, 1211121, 33};
       int sum =  calculateSum(array);
       System.out.print(sum);
     }

@@ -14,6 +14,7 @@ public class ArrSum {
         int sumOfArr = 0;
         for (int element : a) {
             sumOfArr += element;
+            test
         }
         return sumOfArr;
     }
